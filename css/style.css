@@ -1,3 +1,50 @@
 h1 {
-  color: blue;
+  font-family: arial;
+}
+body {
+  color: black;
+  text-align: center;
+  font-style: arial, sans-serif;
+
+}
+
+body {
+  background: gray;
+}
+
+.middle {
+  left: 100px;
+  display: inline-block;
+  font-family: arial;
+}
+
+.container {
+  font-family: arial;
+  display: inline-block;
+}
+
+.F {
+  font-family: arial;
+}
+
+p {
+  color: white;
+  font-size: 40px;
+  background: red;
+  padding: 100px 0px 0px 0px;
+  width: 400px;
+  font-family: arial;
+  font-weight: bold;
+  max-height: 15px;
+  display: center;
+  overflow: hidden;
+}
+
+#result {
+  color: white;
+  font-size: 40px;
+  position: relative;
+  top: -110px;
+  font-family: arial, sans-serif;
+
 }
